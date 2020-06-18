@@ -7,6 +7,17 @@ https://www.researchgate.net/publication/331775734_Polyp_Classification_and_Clus
 
 Create a folder "2class" with subfolders "Benign" and "malignant" consisting of respective images.
 
-For 2class classification change the parameter in line13 of script.py as "2class" and change it to "4class" for 4 class classification.
+For 2class classification change the parameter in line13 of script.py as "2class" and change it to "4class" for 4 class classification.\
+\
+\
+\
+
+
+
 
 <img src="RM/p1.JPG"  />
+<img src="RM/p2.JPG"  />
+<img src="RM/p3.JPG"  />
+<img src="RM/p4.JPG"  />
+<img src="RM/p5.JPG"  />
+<img src="RM/p6.JPG"  />
